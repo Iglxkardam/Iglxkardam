@@ -77,23 +77,27 @@ const dev = {
     <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   </p>
 
+  <h3>Blockchains & Privacy Tech</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Megaeth-6B21A8?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white"/>
+    <img src="https://img.shields.io/badge/BNB%20Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=000"/>
+    <img src="https://img.shields.io/badge/Sei-E11D48?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AES-2563EB?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FHE-4F46E5?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/zkProof-000000?style=for-the-badge&logoColor=white"/>
+  </p>
+
   <h3>Infra, Oracles & Indexing</h3>
   <p>
     <img src="https://img.shields.io/badge/Alchemy-0B69FF?style=for-the-badge&logo=alchemy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Infura-F24C53?style=for-the-badge&logo=infura&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tenderly-5C3DF5?style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"/>
     <img src="https://img.shields.io/badge/The%20Graph-5C2D91?style=for-the-badge&logo=thegraph&logoColor=white"/>
     <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
-  </p>
-
-  <h3>Testing & Security</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Slither-2A2A2A?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Echidna-DC2626?style=for-the-badge&logo=ethereum&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mythril-111111?style=for-the-badge&logo=ethereum&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Foundry%20Fuzzing-000000?style=for-the-badge&logo=foundry&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sonatype%20OSSIndex-7C3AED?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pinata-24C8DB?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/wagmi-000000?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RainbowKit-0EA5E9?style=for-the-badge&logoColor=white"/>
   </p>
 </div>
 
