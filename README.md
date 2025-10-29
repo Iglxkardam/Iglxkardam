@@ -31,6 +31,17 @@
   </a>
 </p>
 
+<!-- Live dApps (Deployed) -->
+<h3 align="center">🚀 Live dApps</h3>
+<p align="center">
+  <a href="https://chatledger-jq1d7j3mc-sachinkardam00s-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/ChatLedger-LIVE-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="ChatLedger Live"/>
+  </a>
+  <a href="https://block-drive-master.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/StorLedger-LIVE-3b82f6?style=for-the-badge&logo=ipfs&logoColor=white" alt="StorLedger Live"/>
+  </a>
+</p>
+
 <h2 align="center">🧭 What I Do</h2>
 
 <p align="center">
