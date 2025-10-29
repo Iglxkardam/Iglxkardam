@@ -38,17 +38,59 @@
   My focus: secure Solidity, clean architecture, gas-efficient patterns, and robust testing.
 </p>
 
-<!-- About Me as code block -->
+<!-- About Me as Solidity contract -->
 <h2>👨🏻‍💻 About Me</h2>
 
-```ts
-const dev = {
-  role: 'Smart Contract Developer',
-  stack: ['Solidity', 'Foundry', 'Hardhat', 'Ethers.js', 'OpenZeppelin'],
-  interests: ['DeFi', 'NFTs', 'Account Abstraction', 'L2s', 'Oracles', 'MEV-aware design'],
-  strengths: ['Security reviews', 'Gas optimizations', 'Property-based testing', 'Fuzzing'],
-  tools: ['Slither', 'Echidna', 'Mythril', 'Tenderly', 'Defender', 'Alchemy/Infura'],
-  learning: ['ZK tooling', 'Formal verification', 'Advanced proxies/patterns']
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+contract AboutIglxkardam {
+    string public name = "Sachin Kumar";
+    string public handle = "Iglxkardam";
+    string public role = "Smart Contract Developer";
+    string public motto = "Your Key , Your data";
+
+    // Core stack
+    string[] public stack = [
+        "Solidity","Foundry","Hardhat","OpenZeppelin",
+        "Ethers.js","viem","Next.js","React","Tailwind"
+    ];
+
+    // Ecosystem focus
+    string[] public blockchains = [
+        "Ethereum","Megaeth","Avalanche","BNB Chain","Sei"
+    ];
+    string[] public privacyTech = ["AES","FHE","zkProofs"];
+    string[] public infra = [
+        "Alchemy","Chainlink","The Graph","IPFS","Pinata","wagmi","RainbowKit"
+    ];
+
+    struct Focus {
+        bool security; // audits, invariants, property-based tests
+        bool gas;      // storage packing, precomputes, calldata design
+        bool defi;     // vaults, AMMs, staking, rewards
+        bool nfts;     // marketplaces, mints, royalties
+        bool l2;       // rollups, bridges, calldata efficiency
+        bool aa;       // account abstraction, session keys
+    }
+    Focus public focus = Focus({
+        security: true,
+        gas: true,
+        defi: true,
+        nfts: true,
+        l2: true,
+        aa: true
+    });
+
+    function currentGoals() external pure returns (string memory) {
+        return "Ship secure, gas-efficient DeFi/NFT protocols with great DX";
+    }
+
+    // Tiny style demo: safe unchecked loop for gas when overflow is impossible
+    function sumGasOptimized(uint256[] calldata a) external pure returns (uint256 s) {
+        unchecked { for (uint i; i < a.length; ++i) s += a[i]; }
+    }
 }
 ```
 
