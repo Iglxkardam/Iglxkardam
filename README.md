@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/t56wRmutLYoAAAAj/cute-kawaii.gif" alt="Cute Kawaii Hello" width="520" />
+  <img src="https://media.tenor.com/t56wRmutLYoAAAAj/cute-kawaii.gif" alt="Cute Kawaii Hello" width="200" />
 </p>
 
 <h1 align="center">
