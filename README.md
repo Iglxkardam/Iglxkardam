@@ -203,6 +203,12 @@ contract AboutIglxkardam {
   <img src="https://profile-counter.glitch.me/Iglxkardam/count.svg" />
 </div>
 
+<!-- Fun GIF -->
+<div align="center">
+  <img src="https://media.tenor.com/-Ki0pGISBVUAAAAj/tease-teasing.gif" alt="Tease Teasing" width="200" />
+  
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22d3ee&height=100&section=footer"/>
 </p>
