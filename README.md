@@ -9,9 +9,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachinkardam00&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/sachinkardam00?label=Followers&style=social" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/sachinkardam00?label=Stars&style=social" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Iglxkardam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Iglxkardam?label=Followers&style=social" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Iglxkardam?label=Stars&style=social" alt="stars"/>
 </p>
 
 <!-- Custom Quote (replaces random quote) -->
@@ -26,7 +26,7 @@
   <a href="https://iglxkardam.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:113672738+sachinkardam00@users.noreply.github.com" target="_blank">
+  <a href="mailto:113672738+Iglxkardam@users.noreply.github.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -100,50 +100,50 @@ const dev = {
 <!-- Featured Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center">
-  <a href="https://github.com/sachinkardam00/ChatLedger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachinkardam00&repo=ChatLedger&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Iglxkardam/ChatLedger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iglxkardam&repo=ChatLedger&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/sachinkardam00/Iglxkardam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachinkardam00&repo=Iglxkardam&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Iglxkardam/Iglxkardam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iglxkardam&repo=Iglxkardam&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/sachinkardam00/Staryield">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachinkardam00&repo=Staryield&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Iglxkardam/Staryield">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iglxkardam&repo=Staryield&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/sachinkardam00/VoteLedger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachinkardam00&repo=VoteLedger&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Iglxkardam/VoteLedger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iglxkardam&repo=VoteLedger&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Statistics</h2>
 <p align="center">
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=sachinkardam00&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachinkardam00&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=Iglxkardam&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Iglxkardam&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkardam00&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iglxkardam&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
 </p>
 
 <!-- Activity Graph (optional) -->
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkardam00&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iglxkardam&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 <!-- Contribution Snake -->
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sachinkardam00/sachinkardam00/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sachinkardam00/sachinkardam00/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/sachinkardam00/sachinkardam00/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Iglxkardam/Iglxkardam/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Iglxkardam/Iglxkardam/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Iglxkardam/Iglxkardam/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 <!-- Visitors -->
 <div align="center">
   <strong>Visitors Count</strong><br/>
-  <img src="https://profile-counter.glitch.me/sachinkardam00/count.svg" />
+  <img src="https://profile-counter.glitch.me/Iglxkardam/count.svg" />
 </div>
 
 <p align="center">
