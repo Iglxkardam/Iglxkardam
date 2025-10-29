@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/_rQc7PIEqwQAAAAd/cat-hello-cat-peek.gif" alt="Hello Cat Peek" width="720" />
+  <img src="https://media1.tenor.com/m/_rQc7PIEqwQAAAAd/cat-hello-cat-peek.gif" alt="Hello Cat Peek" width="560" />
 </p>
 
 <h1 align="center">
@@ -186,10 +186,6 @@ contract AboutIglxkardam {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iglxkardam&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
-
-
-
-
 
 <!-- Fun GIF -->
 <div align="center">
