@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22d3ee&height=180&section=header&text=Hello%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=twinkling" alt="header"/>
+  <img src="https://media1.tenor.com/m/_rQc7PIEqwQAAAAd/cat-hello-cat-peek.gif" alt="Hello Cat Peek" width="720" />
 </p>
 
 <h1 align="center">
