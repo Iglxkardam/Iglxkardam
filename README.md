@@ -26,6 +26,9 @@
   <a href="https://iglxkardam.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  <a href="mailto:113672738+sachinkardam00@users.noreply.github.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <h2 align="center">🧭 What I Do</h2>
@@ -126,6 +129,16 @@ const dev = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkardam00&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sachinkardam00/sachinkardam00/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sachinkardam00/sachinkardam00/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/sachinkardam00/sachinkardam00/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 <!-- Visitors -->
 <div align="center">
