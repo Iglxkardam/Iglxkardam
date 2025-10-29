@@ -189,11 +189,7 @@ contract AboutIglxkardam {
 
 
 
-<!-- Visitors -->
-<div align="center">
-  <strong>Visitors Count</strong><br/>
-  <img src="https://profile-counter.glitch.me/Iglxkardam/count.svg" />
-</div>
+
 
 <!-- Fun GIF -->
 <div align="center">
