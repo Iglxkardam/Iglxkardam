@@ -41,10 +41,10 @@
     <img src="https://img.shields.io/badge/-StorLedger-0ea5e9?style=for-the-badge&logo=ipfs&logoColor=white" alt="StorLedger"/>
   </a>
   <a href="https://iglxsipfi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-IGL SIPfi-0ea5e9?style=for-the-badge&logo=ipfs&logoColor=white" alt="StorLedger"/>
+    <img src="https://img.shields.io/badge/-IGL SIPfi-0ea5e9?style=for-the-badge&logo=ipfs&logoColor=red" alt="IGL SIPfi"/>
   </a>
-  <a href="https://block-drive-master.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-StorLedger-0ea5e9?style=for-the-badge&logo=ipfs&logoColor=white" alt="StorLedger"/>
+  <a href="https://voteledger-liard.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-VoteLedger-0ea5e9?style=for-the-badge&logo=ipfs&logoColor=blue" alt="VoteLedger"/>
   </a>
 </p>
 
